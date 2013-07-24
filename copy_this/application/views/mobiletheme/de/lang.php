@@ -349,7 +349,6 @@ $aLang = array(
 'byBrand'                                                     => "Nach Marke/Hersteller",
 'byManufacturer'                                              => "Nach Marke/Hersteller",
 'byVendor'                                                    => "Nach Lieferant",
-'charset'                                                     => "UTF-8",
 'fullDateFormat'                                              => "d.m.Y H:i:s",
 'priceFrom'                                                   => '<span class="pricefrom">ab</span>',
 'searchResult'                                                => 'Suchergebnis für "%s"',
